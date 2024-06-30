@@ -1,4 +1,4 @@
-// bismillahirrahmanirraheem :n
+
 // Started Date: 30 / 6 / 2024 :
 
 const studentDataBase = ['Muhammad', 'Ansar', 'Ameer', 'Swiddeek'];
